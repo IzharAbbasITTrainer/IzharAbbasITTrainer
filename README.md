@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi 👋 I am Izhar Abbas
 
-<!--
-**IzharAbbasITTrainer/IzharAbbasITTrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A General Research Specialist learning new technologies to innovate the world.
 
-Here are some ideas to get you started:
+⚡ Fun fact: I am a Research Expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on General Research Projects.
+
+🔭 I’m currently building real-world projects using my premium tools to collect data.
+
+📫 How to reach me: Izharabbasbaloch@gmail.com
+
+Want to Connect with me? [Linkedin](https://www.linkedin.com/in/izharabbasalone/)
+
+If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/izharabbasalone)!  Thanks.
+
+ -IzharAbbasITTrainer
+
+<!---
+IzharAbbasAlone/IzharAbbasAlone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
